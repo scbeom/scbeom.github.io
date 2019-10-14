@@ -55,7 +55,7 @@ career-profile:
 education:
     - degree: Ph.D. in Computer Science and Engineering
       university: Korea University, South Korea
-      time: 2014 - 2019
+      time: Mar. 2014 - Aug. 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +68,7 @@ education:
 
     - degree: B.E. in Electronics and Information Engineering
       university: Korea University, South Korea
-      time: 2007 - 2014
+      time: Mar. 2007 - Feb. 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,30 +84,22 @@ experiences:
       time: Mar. 2014 - Aug. 2019
       company: Database Lab. at Korea University, South Korea
       details: |
-        Describe ..
-
-          - Bullet point Project 3: A research on safe and convenient big data processing methods
-          - Bullet point Project 2: A research on privacy issues and privacy protection methods for social network services
-          - Bullet point Project 1: An intelligent system for crime detection/prevention and public security based on CCTV bigdata
+        - Project 3: A research on safe and convenient big data processing methods
+        - Project 2: A research on privacy issues and privacy protection methods for social network services
+        - Project 1: An intelligent system for crime detection/prevention and public security based on CCTV bigdata
 
     - role: Visiting Student of Dr. Du Yong Kim
       time: Jan. 2019 - Feb. 2019
       company: School of Engineering at RMIT University, Australia
       details: |
-        Describe ..
-
-        - Bullet point Project: A research on random finite set approach to database applications
-          - Bullet point
-
+        - Project: A research on random finite set approach to database applications
+        
     - role: Student Researcher
       time: Jul. 2013 - Feb. 2014
       company: Korea Institute of Science and Technology Information (KISTI), South Korea
       details: |
-        Describe ..
-
-          - Bullet point Project: Research on analysis and application platform technologies for science and technology big data
-          - Bullet point
-
+        - Bullet point Project: Research on analysis and application platform technologies for science and technology big data
+        
 projects:
     title: Projects
     intro: >
