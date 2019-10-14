@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,15 +14,15 @@ sidebar:
     # Sidebar links
     email: scbeom@gmail.com
     phone: +82-10-3536-5035
-    website: scbeom.github.io #do not add http://
+    website: scbeom.github.io/online-cv #do not add http://
     linkedin: .
-    github: .
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+#    github: .
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Korean
@@ -54,7 +54,7 @@ career-profile:
 
 education:
     - degree: Ph.D. in Computer Science and Engineering
-      university: Korea University
+      university: Korea University, South Korea
       time: 2014 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -67,7 +67,7 @@ education:
           - Bullet point
 
     - degree: B.E. in Electronics and Information Engineering
-      university: Korea University
+      university: Korea University, South Korea
       time: 2007 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -80,26 +80,18 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: Mar. 2014 - Aug. 2019
+      company: Database Lab. at Korea University, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe ..
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
+    - role: Visiting Student of Dr. Du Yong Kim
       time: 2014 - 2015
-      company: Google, London
+      company: School of Engineering at RMIT University, Australia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
