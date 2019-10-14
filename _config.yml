@@ -1,5 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
+remote_theme : sharu725/online-cv
+
 # Site Settings
 title: Changbeom Shim
 # url: 'http://webjeda.com'
