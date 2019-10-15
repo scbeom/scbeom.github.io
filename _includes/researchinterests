@@ -1,0 +1,22 @@
+{% assign researchinterests = site.data.data.sidebar.researchinterests %}
+{% if researchinterests %}
+<div class="researchinterests-container container-block">
+
+  <h2 class="container-block-title">
+    Research Interests
+  </h2>
+
+  <ul class="list-unstyled researchinterests-list">
+    {% for interest in researchinterests %}
+
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//researchinterests-->
+{% endif %}
