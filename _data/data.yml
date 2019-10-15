@@ -130,8 +130,8 @@ projects:
 
 publications:
     title: Publications
-#    intro: |
-#      - Journals
+    intro: |
+      - Journals
 
     papers:
     - Journals
