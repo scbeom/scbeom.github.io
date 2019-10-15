@@ -12,7 +12,8 @@
       {% if researchinterest.link %}
       <li><a href="{{ researchinterest.link }}">{{ researchinterest.item }}</a></li>
       {% else %}
-      <li>{{ researchinterest.item }}</li>
+      <li>{{ researchinterest.topic }}</li>
+      <li><span class="lang-desc">({{ researchinterest.specific }})</span></li>
       {% endif %}
 
     {% endfor %}
