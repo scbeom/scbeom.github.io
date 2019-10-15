@@ -152,12 +152,10 @@ publications:
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
         
-    intro: |
-      Conferences
+      - title: Conferences
       
-    papers:
-      - authors: Wooil Kim, Changbeom Shim, Ilhyun Suh, and Yon Dohn Chung,
-        title: \"A Visual Explorer for Analyzing Trajectory Patterns,\"
+      - title: "A Visual Explorer for Analyzing Trajectory Patterns,"
+        authors: Wooil Kim, Changbeom Shim, Ilhyun Suh, and Yon Dohn Chung,
         conference: IEEE Visual Analytics Science and Technology (VAST Challenge), 2017
   
 
