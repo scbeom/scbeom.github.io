@@ -31,14 +31,10 @@ sidebar:
 #      - idiom: English
 #        level: Intermediate
 
-    interests:
-      - item: Query Processing  
-      - item: Spatio-Temporal Algorithms
-      - item: Geo-Social Networks
-      - item: Bayesian Learning
-      - item: Multi-Object Tracking
-      - item: etc.
-        link: 
+#    interests:
+#      - item: Query Processing  
+#      - item: Spatio-Temporal Algorithms
+#        link: 
         
     researchinterests:
       - topic: DATABASES
