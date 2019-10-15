@@ -39,6 +39,9 @@ sidebar:
       - item: Multi-Object Tracking
       - item: etc.
         link: 
+        
+    researchinterests:
+      - item: Query Processing 
 
 career-profile:
     title: Career Profile
