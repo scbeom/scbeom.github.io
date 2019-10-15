@@ -42,9 +42,12 @@ sidebar:
         
     researchinterests:
       - topic: DATABASES
-        specific: Query Processing 
+        specific: Query Processing
+        specific: Spatio-Temporal Algorithms
+        specific: Geo-Social Networks
       - topic: MACHINE LEARNING
         specific: Bayesian Learning
+        specific: Multi-Object Tracking
 
 career-profile:
     title: Career Profile
