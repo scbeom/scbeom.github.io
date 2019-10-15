@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
             
             $(this).animate({
                 width: itemWidth
-            }, 1500);
+            }, 800);
             
         });
 
