@@ -42,12 +42,12 @@ sidebar:
         
     researchinterests:
       - topic: DATABASES
-        specific: Spatio-Temporal Algorithms
-        specific: Geo-Social Networks
+        specific1: Spatio-Temporal Algorithms
+        specific2: Geo-Social Networks
         
       - topic: MACHINE LEARNING
-        specific: Bayesian Learning
-        specific: Multi-Object Tracking
+        specific1: Bayesian Learning
+        specific2: Multi-Object Tracking
       
 
 career-profile:
