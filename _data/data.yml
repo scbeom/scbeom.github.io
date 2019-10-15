@@ -32,15 +32,13 @@ sidebar:
 #        level: Intermediate
 
     interests:
-      - item: Spatio-temporal algorithms
-        link:
-
-      - item: Yoga
-        link:
-        
-    researchinterests:
-      - item: Spatio-temporal algorithms
-        link:
+      - item: Query Processing  
+      - item: Spatio-Temporal Algorithms
+      - item: Geo-Social Networks
+      - item: Bayesian Learning
+      - item: Multi-Object Tracking
+      - item: etc.
+        link: 
 
 career-profile:
     title: Career Profile
