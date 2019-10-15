@@ -131,15 +131,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Journals
       
     papers:
-    
-      toolset:
-        - name: Journals
-      
       - title: The Art of Computer Programming
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
@@ -152,12 +146,19 @@ publications:
         authors: Changbeom Shim
         conference: "Comm. ACM 4 (1961), 51–55"
         
-      toolset:
-        - name: Conferences
+      - name: Conferences
           
       - title: The Art of Computer Programming
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
+        
+    intro: |
+      Conferences
+      
+    papers:
+      - authors: Wooil Kim, Changbeom Shim, Ilhyun Suh, and Yon Dohn Chung,
+        title: \"A Visual Explorer for Analyzing Trajectory Patterns,\"
+        conference: IEEE Visual Analytics Science and Technology (VAST Challenge), 2017
   
 
 skills:
