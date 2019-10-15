@@ -6,17 +6,17 @@
     Research Interests
   </h2>
 
-  <ul class="list-unstyled researchinterests-list">
-    {% for interest in researchinterests %}
+  <ul class="list-unstyled interests-list">
+    {% for researchinterest in researchinterests %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% if researchinterest.link %}
+      <li><a href="{{ researchinterest.link }}">{{ researchinterest.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ researchinterest.item }}</li>
       {% endif %}
 
     {% endfor %}
   </ul>
 
-</div><!--//researchinterests-->
+</div><!--//interests-->
 {% endif %}
