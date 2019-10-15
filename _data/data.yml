@@ -131,10 +131,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      Describe...
-
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+      
     papers:
-    - Journals
       - title: The Art of Computer Programming
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
