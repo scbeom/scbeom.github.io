@@ -130,8 +130,8 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      Journals
+#    intro: |
+#      Describe
       
     papers:
       - title: The Art of Computer Programming
@@ -145,18 +145,18 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Changbeom Shim
         conference: "Comm. ACM 4 (1961), 51–55"
-        
-      - name: Conferences
           
       - title: The Art of Computer Programming
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
-        
-      - title: Conferences
       
-      - title: "A Visual Explorer for Analyzing Trajectory Patterns,"
-        authors: Wooil Kim, Changbeom Shim, Ilhyun Suh, and Yon Dohn Chung,
-        conference: IEEE Visual Analytics Science and Technology (VAST Challenge), 2017
+      - authors: Wooil Kim, Changbeom Shim, Ilhyun Suh, and Yon Dohn Chung,
+        title: '"A Visual Explorer for Analyzing Trajectory Patterns,"'
+        conference: IEEE Visual Analytics Science and Technology (VAST Challenge), 2017.
+        
+      - authors: Sungmin Yi, Changbeom Shim, and Yon Dohn Chung,
+        title: '"\Reverse View Field Nearest Neighbor Queries,"'
+        conference: Information Sciences, 2017.
   
 
 skills:
