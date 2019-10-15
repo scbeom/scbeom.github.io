@@ -15,7 +15,7 @@ sidebar:
     email: scbeom@gmail.com
     phone: +82-10-3536-5035
     website: scbeom.github.io/online-cv #do not add http://
-    linkedin: .
+    linkedin: linkedin.com/in/changbeom-shim-089628168/
 #    github: .
 #    gitlab:
 #    bitbucket:
@@ -130,23 +130,27 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      - Journals
 
     papers:
+    - Journals
       - title: The Art of Computer Programming
-        authors: Donald E. Knuth
+        authors: Changbeom Shim
         conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: Changbeom Shim
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
+        authors: Changbeom Shim
         conference: "Comm. ACM 4 (1961), 51–55"
+        
+    - Conferences
+      - title: The Art of Computer Programming
+        authors: Changbeom Shim
+        conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
