@@ -41,7 +41,10 @@ sidebar:
         link: 
         
     researchinterests:
-      - item: Query Processing 
+      - topic: DATABASES
+        specific: Query Processing 
+      - topic: MACHINE LEARNING
+        specific: Bayesian Learning
 
 career-profile:
     title: Career Profile
