@@ -24,12 +24,12 @@ sidebar:
 #    codewars:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Korean
-        level: Native
+#    languages:
+#      - idiom: Korean
+#        level: Native
 
-      - idiom: English
-        level: Intermediate
+#      - idiom: English
+#        level: Intermediate
 
     interests:
       - item: Basketball
