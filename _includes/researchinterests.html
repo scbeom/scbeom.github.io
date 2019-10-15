@@ -9,16 +9,12 @@
   <ul class="list-unstyled interests-list">
     {% for researchinterest in researchinterests %}
 
-#      {% if researchinterest.link %}
-#      <li><a href="{{ researchinterest.link }}">{{ researchinterest.item }}</a></li>
-#      {% else %}
-#      <li>{{ researchinterest.topic }}
-#        <br><span class="lang-desc">- {{ researchinterest.specific }}</span></li>
-#      {% endif %}
-    
-     <li>{{ researchinterest.topic }}
+      {% if researchinterest.link %}
+      <li><a href="{{ researchinterest.link }}">{{ researchinterest.item }}</a></li>
+      {% else %}
+      <li>{{ researchinterest.topic }}
         <br><span class="lang-desc">- {{ researchinterest.specific }}</span></li>
-        <br><span class="lang-desc">- {{ researchinterest.specific }}</span></li>    
+      {% endif %}
     
     {% endfor %}
   </ul>
