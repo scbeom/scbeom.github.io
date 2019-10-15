@@ -40,6 +40,10 @@ sidebar:
 
       - item: Shopping
         link:
+        
+    researchinterests:
+      - item: Spatio-temporal algorithms
+        link:
 
 career-profile:
     title: Career Profile
