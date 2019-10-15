@@ -80,6 +80,12 @@ education:
           - Bullet point
 
 experiences:
+    - role: Research Associate
+      time: Nov. 2019 - Present
+      company: School of Elec Eng, Comp and Math Sci at Curtin University, Australia
+      details: |
+       - Project: A research on ...
+
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
       company: Database Lab. at Korea University, South Korea
