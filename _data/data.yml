@@ -136,6 +136,10 @@ publications:
       bibendum fringilla a eu lectus.
       
     papers:
+    
+      toolset:
+        - name: Journals
+      
       - title: The Art of Computer Programming
         authors: Changbeom Shim
         conference: Addison-Wesley, 1968
@@ -147,7 +151,14 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Changbeom Shim
         conference: "Comm. ACM 4 (1961), 51–55"
-
+        
+      toolset:
+        - name: Conferences
+          
+      - title: The Art of Computer Programming
+        authors: Changbeom Shim
+        conference: Addison-Wesley, 1968
+  
 
 skills:
     title: Skills &amp; Proficiency
