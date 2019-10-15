@@ -45,9 +45,6 @@ sidebar:
       - specific: Spatio-Temporal Databases
       - specific: Graph Databases
       
-      - topic: MACHINE LEARNING
-      - specific: Bayesian Learning
-      - specific: Multi-Object Tracking
 
 career-profile:
     title: Career Profile
