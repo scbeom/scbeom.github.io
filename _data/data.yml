@@ -42,9 +42,9 @@ sidebar:
         
     researchinterests:
       - topic: DATABASES
-      - specific: Query Processing
-      - specific: Spatio-Temporal Algorithms
-      - specific: Geo-Social Networks
+      - specific: Spatio-Temporal Databases
+      - specific: Graph Databases
+      
       - topic: MACHINE LEARNING
       - specific: Bayesian Learning
       - specific: Multi-Object Tracking
