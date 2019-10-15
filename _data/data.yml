@@ -131,7 +131,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      - Journals
+      Describe...
 
     papers:
     - Journals
@@ -146,11 +146,7 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Changbeom Shim
         conference: "Comm. ACM 4 (1961), 51–55"
-        
-    - Conferences
-      - title: The Art of Computer Programming
-        authors: Changbeom Shim
-        conference: Addison-Wesley, 1968
+
 
 skills:
     title: Skills &amp; Proficiency
