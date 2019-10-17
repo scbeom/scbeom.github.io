@@ -138,11 +138,11 @@ publications:
 #      Describe
       
     papers:
-      - authors: <p><B>Changbeom Shim<\B><\p>, Gyuhyeon Sim, and Yon Dohn Chung,
+      - authors: <p><B>Changbeom Shim</B></p>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Search in Geo-Social Networks,"'
         conference: Under review.
     
-      - authors: Wooil Kim, <B>Changbeom Shim<\B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
+      - authors: Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"Moving View Field Nearest Neighbor Queries,"'
         conference: Data & Knowledge Engineering, 2019.
     
