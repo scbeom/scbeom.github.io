@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: scbeom@gmail.com
     phone: +82-10-3536-5035
-    website: scbeom.github.io/online-cv #do not add http://
+    website: scbeom.github.io/main #do not add http://
     linkedin: changbeom-shim-089628168
 #    github: .
 #    gitlab: .
@@ -46,10 +46,10 @@ sidebar:
         specific2: Multi-Object Tracking
       
 
-#career-profile:
-#    title: Career Profile
-#    summary: |
-#      You can [download this free resume/CV template here]().
+career-profile:
+    title: News!
+    summary: |
+        In November 2019, I'm joining school of elec eng, comp, and math sci at Curtin University as a research associate, and looking forward working with [Prof. Dr. Ba-Ngu Vo](http://scholar.google.com/citations?user=V03zTGIAAAAJ&hl=en) and [Prof. Dr. Ba Tuong Vo](https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en).
 
 education:
     - degree: Ph.D. in Computer Science and Engineering
