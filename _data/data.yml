@@ -120,8 +120,8 @@ experiences:
         
 projects:
     title: Honors and Awards
-    intro: >
-      You can ...
+#    intro: >
+#      You can ...
 
     assignments:
       - title:
@@ -131,6 +131,19 @@ projects:
       - title:
         link: 
         tagline: "Jul. 2018, Student Paper Contest Award, Korea Computer Congress (KCC)"
+        
+      - title:
+        link: 
+        tagline: "Feb. 2018, Best Ph.D. Candidate Paper Award, Korea University"
+        
+      - title:
+        link: 
+        tagline: "Oct. 2017, Honorable Mention, IEEE Visual Analytics Science and Technology (VAST Challenge)"
+        
+      - title:
+        link: 
+        tagline: "May 2015, Best Paper Award, Korean DataBase Conference (KDBC)"
+        
 
 publications:
     title: Publications
