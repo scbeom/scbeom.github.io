@@ -124,13 +124,13 @@ projects:
       You can ...
 
     assignments:
-      - title: Feb. 2019
+      - title:
         link: 
-        tagline: "KU Graduate Student Achievement Award, Korea University"
+        tagline: "Feb. 2019, KU Graduate Student Achievement Award, Korea University"
 
-      - title: Jul. 2018
+      - title:
         link: 
-        tagline: "Student Paper Contest Award, Korea Computer Congress (KCC)"
+        tagline: "Jul. 2018, Student Paper Contest Award, Korea Computer Congress (KCC)"
 
 publications:
     title: Publications
