@@ -44,19 +44,6 @@ sidebar:
       - topic: MACHINE LEARNING
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking
-        
-    skills:
-        title: Skills &amp; Proficiency
-
-        toolset:
-          - name: Java
-            level: 90%
-
-          - name: Python
-            level: 80%
-
-          - name: Matlab
-            level: 80%
       
 
 career-profile:
@@ -94,7 +81,7 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: School of Elec Eng, Comp and Math Sci at Curtin University, Australia
+      company: School of Elec Eng, Comp, and Math Sci at Curtin University, Australia
       details: |
        - Project: A research on ...
 
