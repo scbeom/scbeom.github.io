@@ -44,18 +44,25 @@ sidebar:
       - topic: MACHINE LEARNING
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking
+        
+    skills:
+        title: Skills &amp; Proficiency
+
+        toolset:
+          - name: Java
+            level: 90%
+
+          - name: Python
+            level: 80%
+
+          - name: Matlab
+            level: 80%
       
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      You can [download this free resume/CV template here]().
 
 education:
     - degree: Ph.D. in Computer Science and Engineering
@@ -167,5 +174,5 @@ skills:
       - name: Matlab
         level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
