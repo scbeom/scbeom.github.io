@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Changbeom Shim
-    tagline: Research Associate at Curtin University
+    tagline: Research Associate
     avatar: profile_3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -119,20 +119,18 @@ experiences:
         - Project: Research on analysis and application platform technologies for science and technology big data
         
 projects:
-    title: Projects
+    title: Honors and Awards
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You can ...
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Feb. 2019
+        link: 
+        tagline: "KU Graduate Student Achievement Award, Korea University"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Jul. 2018
+        link: 
+        tagline: "Student Paper Contest Award, Korea Computer Congress (KCC)"
 
 publications:
     title: Publications
