@@ -138,9 +138,9 @@ publications:
 #      Describe
       
     papers:
-      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
-        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
-        conference: Under review.
+#      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+#        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
+#        conference: Under review.
     
       - authors: <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Search in Geo-Social Networks,"'
