@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: News!
     summary: |
-        In November 2019, I'm joining at Curtin University as a research associate, and looking forward to working with [Prof. Dr. Ba-Ngu Vo](http://scholar.google.com/citations?user=V03zTGIAAAAJ&hl=en) and [Prof. Dr. Ba Tuong Vo](https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en).
+        In November 2019, I've joined at Curtin University as a research associate, and I'm looking forward to working with [Prof. Dr. Ba-Ngu Vo](http://scholar.google.com/citations?user=V03zTGIAAAAJ&hl=en) and [Prof. Dr. Ba Tuong Vo](https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en).
 
 education:
     - degree: Ph.D. in Computer Science and Engineering
@@ -167,21 +167,12 @@ publications:
         conference: Information Sciences, 2017.
   
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java
-        level: 80%
-
-      - name: Python
-        level: 70%
-
-      - name: Matlab
-        level: 65%
-        
-      - name: Latex
-        level: 80%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Java
+#        level: 80%
 
 # footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
