@@ -1,9 +1,15 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-            
+    
     {% if sidebar.cvlink %}
     <li class="cvlink"><i class='far fa-folder' style='font-size:19px'></i>
       <a href="http://{{ sidebar.cvlink }}" target="_blank">{{ sidebar.cvname }}</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.github %}
+    <li class="github"><i class="far fa-folder"></i>
+      <a href="http://{{ sidebar.github }}" target="_blank">{{ sidebar.gitname }}</a>
     </li>
     {% endif %}
     
@@ -31,11 +37,11 @@
     </li>
     {% endif %}
 
-    {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
-    </li>
-    {% endif %}
+#    {% if sidebar.github %}
+#    <li class="github"><i class="fab fa-github"></i>
+#      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+#    </li>
+#    {% endif %}
 
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
