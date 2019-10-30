@@ -1,6 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-
+            
+    {% if sidebar.cvlink %}
+    <li class="cvlink"><i class="far fa-folder"></i>
+      <a href="http://{{ sidebar.cvlink }}" target="_blank">{{ CV download }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
@@ -16,12 +22,6 @@
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
-    </li>
-    {% endif %}
-    
-    {% if sidebar.cvlink %}
-    <li class="cvlink"><i class="far fa-folder"></i>
-      <a href="http://{{ sidebar.cvlink }}" target="_blank">{{ CV download }}</a>
     </li>
     {% endif %}
 
