@@ -82,9 +82,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Research Associate, Nov. 2019 - Present
-#      time: Nov. 2019 - Present
-      company: Department of Electrical and Computer Engineering at Curtin University, Australia, Nov. 2019 - Present
+    - role: Research Associate
+      time: Nov. 2019 - Present
+      company: Department of Electrical and Computer Engineering at Curtin University, Australia
 #      details: |
 #       - Project: A research on ...
 
