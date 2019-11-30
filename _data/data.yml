@@ -46,7 +46,8 @@ sidebar:
         specific2: Multi-Object Tracking 
         
 #    cvlink: dbserver.korea.ac.kr/wp-content/uploads/2019/07/CV-Changbeom_Shim-1.pdf
-    cvname: [Curriculum Vitae]({{ "/_data/C.Shim_CV.pdf" | absolute_url }})
+    cvlink: scbeom.github.io/main/C.Shim_CV.pdf
+    cvname: Curriculum Vitae
       
 
 career-profile:
