@@ -180,6 +180,18 @@ projects:
       - title: Journal Reviewer
         link: 
         tagline: "AIHC (2019)"
+        
+        
+services:
+    title: Professional Services
+#    intro: |
+#      Describe
+      
+    papers:
+    
+      - authors: 
+        title: 'Journal Reviewer'
+        conference: "AIHC (2019)"
 
 
 #skills:
