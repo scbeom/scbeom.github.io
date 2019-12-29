@@ -169,7 +169,18 @@ publications:
       - authors: Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"Reverse View Field Nearest Neighbor Queries,"'
         conference: Information Sciences, 2017.
-  
+
+
+projects:
+    title: Professional Services
+#    intro: >
+#      You can ...
+
+    assignments:
+      - title: Journal Reviewer
+        link: 
+        tagline: "AIHC (2019)"
+
 
 #skills:
 #    title: Skills &amp; Proficiency
