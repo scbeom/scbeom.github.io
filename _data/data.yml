@@ -198,6 +198,13 @@ services:
 #        level: 80%
 
 
+skills:
+   title: Professional Activities
+
+   toolset:
+     - name: Journal Reviewer - AIHC (2019)
+#        level: 80%
+
 
 # footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
