@@ -170,17 +170,15 @@ publications:
         title: '"Reverse View Field Nearest Neighbor Queries,"'
         conference: Information Sciences, 2017.
 
+# projects:
+#     title: Professional Services
+# #    intro: >
+# #      You can ...
 
-projects:
-    title: Professional Services
-#    intro: >
-#      You can ...
-
-    assignments:
-      - title: Journal Reviewer
-        link: 
-        tagline: "AIHC (2019)"
-        
+#     assignments:
+#       - title: Journal Reviewer
+#         link: 
+#         tagline: "AIHC (2019)"
         
 services:
     title: Professional Services
@@ -192,7 +190,6 @@ services:
       - authors: 
         title: 'Journal Reviewer'
         conference: "AIHC (2019)"
-
 
 #skills:
 #    title: Skills &amp; Proficiency
