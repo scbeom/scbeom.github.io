@@ -184,9 +184,8 @@ services:
     title: Professional Services
 #    intro: |
 #      Describe
-      
-    papers:
     
+    papers:
       - authors: 
         title: 'Journal Reviewer'
         conference: "AIHC (2019)"
@@ -197,13 +196,6 @@ services:
 #    toolset:
 #      - name: Java
 #        level: 80%
-
-skills:
-   title: Professional Services
-
-   toolset:
-     - name: Journal Reviewer - AIHC (2019)
-#        level: 
 
 
 
