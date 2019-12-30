@@ -199,6 +199,9 @@ services:
 
 
 skills:
+   intro: |
+     Journal Reviewer - AIHC (2019)
+     
    title: Professional Activities
 
    toolset:
