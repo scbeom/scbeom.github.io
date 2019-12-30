@@ -186,7 +186,7 @@ services:
 #      Describe
     
     papers:
-      - authors: 
+      - authors: what
         title: 'Journal Reviewer'
         conference: "AIHC (2019)"
 
@@ -196,17 +196,6 @@ services:
 #    toolset:
 #      - name: Java
 #        level: 80%
-
-
-skills:     
-   title: Professional Activities
-
-   intro: |
-     Journal Reviewer - AIHC (2019)
-
-   toolset:
-     - name: Journal Reviewer - AIHC (2019)
-       level: 
 
 
 # footer: >
