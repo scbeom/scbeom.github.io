@@ -95,7 +95,7 @@ experiences:
       details: |
        - Project 3: A research on safe and convenient big data processing methods
        - Project 2: A research on privacy issues and privacy protection methods for social network services
-        - Project 1: An intelligent system for crime detection/prevention and public security based on CCTV bigdata
+       - Project 1: An intelligent system for crime detection/prevention and public security based on CCTV bigdata
 
     - role: Visiting Student of Dr. Du Yong Kim
       time: Jan. 2019 - Feb. 2019
@@ -188,7 +188,7 @@ services:
     papers:
       - authors: 
         title: 'Journal Reviewer'
-        conference: "AIHC (2019)"
+        conference: "- AIHC (2019)"
 
 #skills:
 #    title: Skills &amp; Proficiency
