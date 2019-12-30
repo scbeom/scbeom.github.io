@@ -186,7 +186,7 @@ services:
 #      Describe
     
     papers:
-      - authors: what
+      - authors: 
         title: 'Journal Reviewer'
         conference: "AIHC (2019)"
 
