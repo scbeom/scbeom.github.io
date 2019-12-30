@@ -198,11 +198,11 @@ services:
 #        level: 80%
 
 
-skills:
+skills:     
+   title: Professional Activities
+
    intro: |
      Journal Reviewer - AIHC (2019)
-     
-   title: Professional Activities
 
    toolset:
      - name: Journal Reviewer - AIHC (2019)
