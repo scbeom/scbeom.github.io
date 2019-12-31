@@ -137,8 +137,8 @@ projects:
 
 publications:
     title: Publications
-#    intro: |
-#      Describe
+    intro: |
+        Visit our <a href="https://www.w3docs.com/" style="color: #8ebf42">website</a>.
       
     papers:
 #      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
