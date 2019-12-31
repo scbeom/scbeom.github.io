@@ -53,9 +53,9 @@ career-profile:
     title: News!
     summary: |
         In November 2019, I've joined at Curtin University as a research associate, and I look forward to working with 
-        <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works&sortby=pubdate" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a> 
-        and [Prof. Ba Tuong Vo](https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en).
-
+        <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
+        and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba-Tuong Vo</B></a>.
+        
 education:
     - degree: Ph.D. in Computer Science and Engineering
       university: Korea University, South Korea
@@ -141,8 +141,8 @@ publications:
     title: Publications
     intro: |
         - Visit my 
-        <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1">Google scholar</a> 
-        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520">DBLP</a>.
+        <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1"><B>Google scholar</B></a> 
+        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
 #      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
