@@ -141,7 +141,9 @@ projects:
 publications:
     title: Publications
     intro: |
-        * Visit my <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1">Google scholar</a> or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom/" style="color: #FFFF00">DBLP</a>.
+        - Visit my 
+        <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1">Google scholar</a> 
+        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520">DBLP</a>.
       
     papers:
 #      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
