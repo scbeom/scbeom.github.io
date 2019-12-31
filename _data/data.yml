@@ -37,15 +37,14 @@ sidebar:
 #        link: 
         
     researchinterests:
-      - topic: DATABASES
+      - topic: <B>DATABASES</B>
         specific1: Spatio-Temporal Algorithms
         specific2: Geo-Social Networks
         
-      - topic: MACHINE LEARNING
+      - topic: <B>MACHINE LEARNING</B>
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking 
         
-#    cvlink: dbserver.korea.ac.kr/wp-content/uploads/2019/07/CV-Changbeom_Shim-1.pdf
     cvlink: scbeom.github.io/main/C.Shim_CV.pdf
     cvname: Curriculum Vitae
       
