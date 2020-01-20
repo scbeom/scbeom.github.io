@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: News!
     summary: |
-        In November 2019, I've joined at Curtin University as a research associate, and I look forward to working with 
+        In November 2019, I joined at Curtin University as a research associate, and I look forward to working with 
         <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
         and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
         
@@ -87,8 +87,8 @@ experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
       company: Department of Electrical and Computer Engineering at Curtin University, Australia
-#      details: |
-#       - Project: A research on ...
+#       details: |
+#        - Project: A research on tracking
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
@@ -191,7 +191,7 @@ services:
     papers:
       - authors: 
         title: 'Journal Reviewer'
-        conference: "- AIHC (2019)"
+        conference: "- 2019: AIHC, Sensors"
 
 #skills:
 #    title: Skills &amp; Proficiency
