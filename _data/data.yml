@@ -52,8 +52,8 @@ sidebar:
 career-profile:
     title: News!
     summary: |
-         [May 2020] Our work on social-aware ridesharing has been accepted to IEEE Access. 
-         [Nov. 2019] I have joined at Curtin University as a research associate, and I look forward to working with 
+         [05/2020] Our work on social-aware ridesharing has been accepted to IEEE Access. 
+         [11/2019] I have joined at Curtin University as a research associate, and I look forward to working with 
          <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
          and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
         
@@ -119,23 +119,23 @@ projects:
     assignments:
       - title:
         link: 
-        tagline: "[Feb. 2019], KU Graduate Student Achievement Award, Korea University"
+        tagline: "[02/2019], KU Graduate Student Achievement Award, Korea University"
 
       - title:
         link: 
-        tagline: "[Jul. 2018], Student Paper Contest Award, Korea Computer Congress (KCC)"
+        tagline: "[07/2018], Student Paper Contest Award, Korea Computer Congress (KCC)"
         
       - title:
         link: 
-        tagline: "Feb. 2018, Outstanding Ph.D. Candidate Paper Award, Korea University"
+        tagline: "[02/2018], Outstanding Ph.D. Candidate Paper Award, Korea University"
         
       - title:
         link: 
-        tagline: "Oct. 2017, Honorable Mention, IEEE Visual Analytics Science and Technology (Challenge)"
+        tagline: "[10/2017], Honorable Mention, IEEE Visual Analytics Science and Technology (Challenge)"
         
       - title:
         link: 
-        tagline: "May 2015, Outstanding Paper Award, Korean DataBase Conference (KDBC)"
+        tagline: "[05/2015], Outstanding Paper Award, Korean DataBase Conference (KDBC)"
         
 
 publications:
