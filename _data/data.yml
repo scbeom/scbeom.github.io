@@ -50,12 +50,12 @@ sidebar:
       
 
 career-profile:
-    title: News!
+    title: Latest News
     summary: |
-         Our work on social-aware ridesharing has been accepted to IEEE Access. 
-#        In November 2019, I joined at Curtin University as a research associate, and I look forward to working with 
-#        <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
-#        and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
+         [May 2020] Our work on social-aware ridesharing has been accepted to IEEE Access. 
+         [Nov 2019] I have joined at Curtin University as a research associate, and I look forward to working with 
+         <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
+         and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
         
 education:
     - degree: Ph.D. in Computer Science and Engineering
@@ -117,13 +117,13 @@ projects:
 #      You can ...
 
     assignments:
-      - title:
+        title:
         link: 
-        tagline: "Feb. 2019, KU Graduate Student Achievement Award, Korea University"
+        tagline: "[Feb. 2019], KU Graduate Student Achievement Award, Korea University"
 
-      - title:
+        title:
         link: 
-        tagline: "Jul. 2018, Student Paper Contest Award, Korea Computer Congress (KCC)"
+        tagline: "[Jul. 2018], Student Paper Contest Award, Korea Computer Congress (KCC)"
         
       - title:
         link: 
