@@ -117,11 +117,11 @@ projects:
 #      You can ...
 
     assignments:
-        title:
+      - title:
         link: 
         tagline: "[Feb. 2019], KU Graduate Student Achievement Award, Korea University"
 
-        title:
+      - title:
         link: 
         tagline: "[Jul. 2018], Student Paper Contest Award, Korea Computer Congress (KCC)"
         
