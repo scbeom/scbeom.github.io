@@ -37,7 +37,7 @@ sidebar:
 #        link: 
         
     researchinterests:
-      - topic: <B>DATABASES</B>
+      - topic: <B>Information Systems</B>
         specific1: Spatio-Temporal Algorithms
         specific2: Geo-Social Networks
         
@@ -49,13 +49,13 @@ sidebar:
     cvname: Curriculum Vitae
       
 
-career-profile:
-    title: News!
-    summary: |
-         [05/2020] Our work on social-aware ridesharing has been accepted to IEEE Access. <br>
-         [11/2019] I have joined at Curtin University as a research associate, and I look forward to working with 
-         <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
-         and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
+#career-profile:
+#    title: News!
+#    summary: |
+#         [05/2020] Our work on social-aware ridesharing has been accepted to IEEE Access. <br>
+#         [11/2019] I have joined at Curtin University as a research associate, and I look forward to working with 
+#         <a href="https://scholar.google.com/citations?hl=en&user=V03zTGIAAAAJ&view_op=list_works" style="color: #2F4F4F"><B>Prof. Ba-Ngu Vo</B></a>
+#         and <a href="https://scholar.google.com.au/citations?user=jsmHzCAAAAAJ&hl=en" style="color: #2F4F4F"><B>Prof. Ba Tuong Vo</B></a>.
         
 education:
     - degree: Ph.D. in Computer Science and Engineering
@@ -88,8 +88,10 @@ experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
       company: Department of Electrical and Computer Engineering at Curtin University, Australia
-#       details: |
-#        - Project: A research on tracking
+      details: |
+       - Project 3: An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
+       - Project 2: A data-driven system for privacy-preserving pandemic prevention
+       - Project 1:  Efficient large-scale multi-object tracking
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
