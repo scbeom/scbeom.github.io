@@ -38,7 +38,7 @@ sidebar:
         
     researchinterests:
       - topic: <B>DATABASES</B>
-        specific1: Qeury Processing
+        specific1: Query Processing
         specific2: Spatio-Temporal Algorithms
         
       - topic: <B>DATA MINING</B>
