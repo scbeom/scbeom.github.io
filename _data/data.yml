@@ -118,9 +118,13 @@ experiences:
         - Project: Research on analysis and application platform technologies for science and technology big data
         
 projects:
-    title: Honors &amp; Awards
+    title: Grants &amp; Awards
 #    intro: >
 #      You can ...
+    assignments:
+      - title:
+        link: 
+        tagline: "[09/2020] Postdoctoral Fellowship Program, National Research Foundation of Korea"
 
     assignments:
       - title:
