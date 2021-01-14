@@ -37,15 +37,15 @@ sidebar:
 #        link: 
         
     researchinterests:
-      - topic: <B>DATABASES</B>
+      - topic: <B>* DATABASES</B>
         specific1: Query Processing
         specific2: Spatio-Temporal Algorithms
         
-      - topic: <B>DATA MINING</B>
+      - topic: <B>* DATA MINING</B>
         specific1: Visual Analytics
         specific2: Geo-Social Networks
         
-      - topic: <B>MACHINE LEARNING</B>
+      - topic: <B>* MACHINE LEARNING</B>
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking 
         
