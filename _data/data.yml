@@ -95,7 +95,8 @@ experiences:
       details: |
        - Project 3: An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
        - Project 2: A data-driven system for privacy-preserving pandemic prevention
-       - Project 1:  Efficient large-scale multi-object tracking
+#       - Project 1:  Efficient large-scale multi-object tracking
+       - Project 1: <a href="https://scbeom.github.io/GLMB_Project" style="color: #DAA522"><B>Efficient large-scale multi-object tracking</B></a>
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
