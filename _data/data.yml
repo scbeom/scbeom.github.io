@@ -158,6 +158,10 @@ publications:
 #      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
 #        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
 #        conference: Under review.
+
+      - authors: Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
+        title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
+        conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
     
       - authors: <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
@@ -173,7 +177,7 @@ publications:
       
       - authors: Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung,
         title: '"A Visual Explorer for Analyzing Trajectory Patterns,"'
-        conference: IEEE Visual Analytics Science and Technology (VAST Challenge), 2017
+        conference: IEEE Visual Analytics Science and Technology (VAST), 2017
         
       - authors: <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"&#8467-Close Range Friends Query on Social Grid Index,"'
