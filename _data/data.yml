@@ -124,27 +124,27 @@ projects:
     assignments:
 #       - title:
 #         link: 
-#         tagline: "[09/2020] Postdoctoral Fellowship Program, National Research Foundation of Korea"
+#         tagline: "[Sep. 2020] Postdoctoral Fellowship Program, National Research Foundation of Korea"
 
       - title:
         link: 
-        tagline: "<B>[02/2019]</B> KU Graduate Student Achievement Award, Korea University"
+        tagline: "[Feb. 2019] KU Graduate Student Achievement Award, Korea University"
 
       - title:
         link: 
-        tagline: "<B>[07/2018]</B> Student Paper Contest Award, Korea Computer Congress (KCC)"
+        tagline: "[Jul. 2018] Student Paper Contest Award, Korea Computer Congress (KCC)"
         
       - title:
         link: 
-        tagline: "<B>[02/2018]</B> Outstanding Ph.D. Candidate Paper Award, Korea University"
+        tagline: "[Feb. 2018] Outstanding Ph.D. Candidate Paper Award, Korea University"
         
       - title:
         link: 
-        tagline: "<B>[10/2017]</B> Honorable Mention, IEEE Visual Analytics Science and Technology (Challenge)"
+        tagline: "[Oct. 2017] Honorable Mention, IEEE Visual Analytics Science and Technology (Challenge)"
         
       - title:
         link: 
-        tagline: "<B>[05/2015]</B> Outstanding Paper Award, Korean DataBase Conference (KDBC)"
+        tagline: "[May 2015] Outstanding Paper Award, Korean DataBase Conference (KDBC)"
         
 
 publications:
