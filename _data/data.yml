@@ -161,8 +161,7 @@ publications:
 
       - authors: Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
-        conference: Accepted
-#        conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
+        conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
     
       - authors: <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
