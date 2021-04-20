@@ -155,9 +155,9 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-#      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
-#        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
-#        conference: Under review.
+      - authors: Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
+        conference: Accepted
 
       - authors: Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
