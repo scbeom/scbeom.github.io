@@ -159,11 +159,11 @@ publications:
         title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
         conference: Accepted
 
-      - authors: [7] Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
+      - authors: <B>7. <B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
     
-      - authors: [6] <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
+      - authors: <B>6. <B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
         conference: IEEE Access, 2020
     
