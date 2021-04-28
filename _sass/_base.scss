@@ -4,7 +4,7 @@ body {
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
-    padding: 30px;
+    padding: 50px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -155,8 +155,8 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding: 60px;
-    padding-right: 340px;
+    padding: 80px;
+    padding-right: 360px;
     .section-title {
         text-transform: uppercase;
         font-size: 20px;
@@ -171,9 +171,9 @@ p {
     }
 
     .experiences-section, .educations-section {
-        .item {
-            margin-bottom: 20px;
-        }
+      .item {
+          margin-bottom: 20px;
+      }
     }
     .upper-row {
         position: relative;
