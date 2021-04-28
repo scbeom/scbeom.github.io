@@ -94,29 +94,29 @@ experiences:
       company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
-       - Project 3: An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
-       - Project 2: A data-driven system for privacy-preserving pandemic prevention
-       - Project 1:  Efficient large-scale multi-object tracking
+       - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
+       - A data-driven system for privacy-preserving pandemic prevention
+       - Efficient large-scale multi-object tracking
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
-      company: Database Laboratory, Korea University, South Korea
+      company: Database Laboratory, Department of Computer Science and Engineering, Korea University, South Korea
       details: |
-       - Project 3: A research on safe and convenient big data processing methods
-       - Project 2: A research on privacy issues and privacy protection methods for social network services
-       - Project 1: An intelligent system for crime detection/prevention and public security based on CCTV bigdata
+       - A research on safe and convenient big data processing methods
+       - A research on privacy issues and privacy protection methods for social network services
+       - An intelligent system for crime detection/prevention and public security based on CCTV bigdata
 
     - role: Visiting Student of Dr. Du Yong Kim
       time: Jan. 2019 - Feb. 2019
       company: School of Engineering, RMIT University, Australia
       details: |
-       - Project: A research on random finite set approach to database applications
+       - A research on random finite set approach to database applications
         
     - role: Student Researcher
       time: Jul. 2013 - Feb. 2014
       company: Korea Institute of Science and Technology Information, South Korea
       details: |
-        - Project: Research on analysis and application platform technologies for science and technology big data
+        - Research on analysis and application platform technologies for science and technology big data
         
 projects:
     title: Awards &amp; Honors
