@@ -91,8 +91,7 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: Curtin University, Australia
-      company: The Intelligent Sensing & Perception Group, School of Electrical Engineering, Computing and Mathematical Sciences
+      company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
        - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
@@ -101,7 +100,7 @@ experiences:
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
-      company: Database Laboratory, Department of Computer Science and Engineering, Korea University, South Korea
+      company: Department of Computer Science and Engineering, Korea University, South Korea
       details: |
        - A research on safe and convenient big data processing methods
        - A research on privacy issues and privacy protection methods for social network services
