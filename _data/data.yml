@@ -91,7 +91,8 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Australia
+      company: Curtin University, Australia
+      company: The Intelligent Sensing & Perception Group, School of Electrical Engineering, Computing and Mathematical Sciences
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
        - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
