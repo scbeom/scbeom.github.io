@@ -91,7 +91,7 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: School of electrical engineering computing and mathematical sciences
+      company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
        - Project 3: An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
@@ -100,7 +100,7 @@ experiences:
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
-      company: Database Laboratory. at Korea University, South Korea
+      company: Database Laboratory, Korea University, South Korea
       details: |
        - Project 3: A research on safe and convenient big data processing methods
        - Project 2: A research on privacy issues and privacy protection methods for social network services
@@ -108,7 +108,7 @@ experiences:
 
     - role: Visiting Student of Dr. Du Yong Kim
       time: Jan. 2019 - Feb. 2019
-      company: School of Engineering at RMIT University, Australia
+      company: School of Engineering, RMIT University, Australia
       details: |
        - Project: A research on random finite set approach to database applications
         
