@@ -91,7 +91,8 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: Department of Electrical and Computer Engineering at Curtin University, Australia
+      company: School of electrical engineering computing and mathematical sciences
+#       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
        - Project 3: An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
        - Project 2: A data-driven system for privacy-preserving pandemic prevention
@@ -99,7 +100,7 @@ experiences:
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
-      company: Database Lab. at Korea University, South Korea
+      company: Database Laboratory. at Korea University, South Korea
       details: |
        - Project 3: A research on safe and convenient big data processing methods
        - Project 2: A research on privacy issues and privacy protection methods for social network services
