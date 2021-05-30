@@ -156,67 +156,35 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-#       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
-#         title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
-#         conference: Journal of Visualization, 2021
-
-#       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
-#         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
-#         conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
-    
-#       - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
-#         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
-#         conference: IEEE Access, 2020
-    
-#       - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
-#         title: '"Moving View Field Nearest Neighbor Queries,"'
-#         conference: Data & Knowledge Engineering, 2019
-    
-#       - authors: <B>[4]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
-#         title: '"Nearest Close Friend Search in Geo-Social Networks,"'
-#         conference: Information Sciences, 2018
-      
-#       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung,
-#         title: '"A Visual Explorer for Analyzing Trajectory Patterns,"'
-#         conference: IEEE Visual Analytics Science and Technology (VAST), 2017
-        
-#       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung,
-#         title: '"Reverse View Field Nearest Neighbor Queries,"'
-#         conference: Information Sciences, 2017
-        
-#       - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
-#         title: '"&#8467-Close Range Friends Query on Social Grid Index,"'
-#         conference: IEICE Transaction on Information and Systems, 2017
-
-      - authors: [8] Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+      - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
         conference: Journal of Visualization, 2021
 
-      - authors: [7] Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
+      - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
     
-      - authors: [6] <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
+      - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
         conference: IEEE Access, 2020
     
-      - authors: [5] Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
+      - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"Moving View Field Nearest Neighbor Queries,"'
         conference: Data & Knowledge Engineering, 2019
     
-      - authors: [4] <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
+      - authors: <B>[4]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"Nearest Close Friend Search in Geo-Social Networks,"'
         conference: Information Sciences, 2018
       
-      - authors: [3] Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung,
+      - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung,
         title: '"A Visual Explorer for Analyzing Trajectory Patterns,"'
         conference: IEEE Visual Analytics Science and Technology (VAST), 2017
         
-      - authors: [2] Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+      - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"Reverse View Field Nearest Neighbor Queries,"'
         conference: Information Sciences, 2017
         
-      - authors: [1] <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
+      - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"&#8467-Close Range Friends Query on Social Grid Index,"'
         conference: IEICE Transaction on Information and Systems, 2017
 
