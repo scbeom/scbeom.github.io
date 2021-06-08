@@ -125,7 +125,7 @@ projects:
     assignments:
       - title:
         link: 
-        tagline: "[Sep. 2020] Postdoctoral Fellowship Program, National Research Foundation of Korea"
+        tagline: "[Sep. 2020] Postdoctoral Fellowship Program, National Research Foundation (NRF) of Korea"
 
       - title:
         link: 
@@ -198,15 +198,15 @@ publications:
 #         link: 
 #         tagline: "AIHC (2019)"
         
-services:
-    title: Professional Activities
-#    intro: |
-#      Describe
+# services:
+#     title: Professional Activities
+# #    intro: |
+# #      Describe
     
-    papers:
-      - authors: 
-        title: 'Journal Reviewer'
-        conference: "- IEEE Access, JAIHC, Sensors"
+#     papers:
+#       - authors: 
+#         title: 'Journal Reviewer'
+#         conference: "- IEEE Access, JAIHC, Sensors"
 
 #skills:
 #    title: Skills &amp; Proficiency
