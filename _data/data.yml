@@ -164,10 +164,14 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-      - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim,
-        title: '"Space-oriented Label Partitioning for Multi-object Tracking,"' <B>Best paper (First Runner-up)</B>,
+#       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim,
+#         title: '"Space-oriented Label Partitioning for Multi-object Tracking,"' <B>Best paper (First Runner-up)</B>,
+#         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), 2021
+
+      - authors: <B>[9]</B> Wooil Kim, <B>Changbeom Shim</B>, and Du Yong Kim,
+        title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), 2021
-    
+
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
         conference: Journal of Visualization, 2021
