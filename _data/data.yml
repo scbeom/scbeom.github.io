@@ -164,9 +164,13 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-#       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim,
-#         title: '"Space-oriented Label Partitioning for Multi-object Tracking,"' <B>Best paper (First Runner-up)</B>,
-#         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), 2021
+      - authors: <B>[11]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>,
+        title: '"Audio-Visual Based Online Multi-Source Separation,"'
+        conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2022
+
+      - authors: <B>[10]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+        title: '"Multi-object Tracking with an Adaptive GLMB Filter,"'
+        conference: Signal Processing, 2022
 
       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim,
         title: '"Space-oriented Label Partitioning for Multi-object Tracking," <B>Best Paper (First Runner-up)</B>,'
@@ -233,5 +237,5 @@ publications:
 
 
 footer: >
-    Last Update: 1 December, 2021
+    Last Update: 31 March, 2022
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
