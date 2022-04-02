@@ -63,7 +63,7 @@ sidebar:
         
 education:
     - degree: Ph.D. in Computer Science and Engineering
-      university: Korea University, South Korea
+      university: Korea University, Seoul, South Korea
       time: Mar. 2014 - Aug. 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,7 +76,7 @@ education:
           - Bullet point
 
     - degree: B.E. in Electronics and Information Engineering
-      university: Korea University, South Korea
+      university: Korea University, Sejong, South Korea
       time: Mar. 2007 - Feb. 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -91,7 +91,7 @@ education:
 experiences:
     - role: Research Associate
       time: Nov. 2019 - Present
-      company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Australia
+      company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Perth, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
        - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
@@ -100,7 +100,7 @@ experiences:
 
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
-      company: Department of Computer Science and Engineering, Korea University, South Korea
+      company: Department of Computer Science and Engineering, Korea University, Seoul South Korea
       details: |
        - A research on safe and convenient big data processing methods
        - A research on privacy issues and privacy protection methods for social network services
@@ -108,13 +108,13 @@ experiences:
 
     - role: Visiting Student of Dr. Du Yong Kim
       time: Jan. 2019 - Feb. 2019
-      company: School of Engineering, RMIT University, Australia
+      company: School of Engineering, RMIT University, Melbourne, Australia
       details: |
        - A research on random finite set approach to database applications
         
     - role: Student Researcher
       time: Jul. 2013 - Feb. 2014
-      company: Korea Institute of Science and Technology Information, South Korea
+      company: Korea Institute of Science and Technology Information, Daejeon, South Korea
       details: |
         - Research on analysis and application platform technologies for science and technology big data
         
