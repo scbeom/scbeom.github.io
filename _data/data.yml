@@ -164,49 +164,49 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-      - authors: <B>[11]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>,
-        title: '"Audio-Visual Based Online Multi-Source Separation,"'
-        conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2022
-
       - authors: <B>[10]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"Multi-object Tracking with an Adaptive GLMB Filter,"'
-        conference: Signal Processing, 2022
+        conference: Signal Processing, Jul. 2022
+        
+      - authors: <B>[11]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>,
+        title: '"Audio-Visual Based Online Multi-Source Separation,"'
+        conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Mar. 2022
 
       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim,
         title: '"Space-oriented Label Partitioning for Multi-object Tracking," <B>Best Paper (First Runner-up)</B>,'
-        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), 2021
+        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"SkyFlow: A Visual Analysis of High-dimensional Skylines in Time-series,"'
-        conference: Journal of Visualization, 2021
+        conference: Journal of Visualization, May 2021
 
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim,
         title: '"Biological Cell Tracking and Lineage Inference via Random Finite Sets,"'
-        conference: IEEE International Symposium on Biomedical Imaging (ISBI), 2021
+        conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr. 2021
     
       - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung,
         title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks,"'
-        conference: IEEE Access, 2020
+        conference: IEEE Access, May 2020
     
       - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"Moving View Field Nearest Neighbor Queries,"'
-        conference: Data & Knowledge Engineering, 2019
+        conference: Data & Knowledge Engineering, Jan. 2019
     
       - authors: <B>[4]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"Nearest Close Friend Search in Geo-Social Networks,"'
-        conference: Information Sciences, 2018
+        conference: Information Sciences, Jan. 2018
       
       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung,
         title: '"A Visual Explorer for Analyzing Trajectory Patterns," <B>Honorable Mention (Challenge)</B>,'
-        conference: IEEE Visual Analytics Science and Technology (VAST), 2017
+        conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"Reverse View Field Nearest Neighbor Queries,"'
-        conference: Information Sciences, 2017
+        conference: Information Sciences, Sep. 2017
         
       - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung,
         title: '"&#8467-Close Range Friends Query on Social Grid Index,"'
-        conference: IEICE Transaction on Information and Systems, 2017
+        conference: IEICE Transaction on Information and Systems, Apr. 2017
 
 # projects:
 #     title: Professional Services
