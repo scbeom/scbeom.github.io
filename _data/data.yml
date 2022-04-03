@@ -164,11 +164,11 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
       
     papers:
-      - authors: <B>[10]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung,
+      - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung,
         title: '"Multi-object Tracking with an Adaptive GLMB Filter,"'
         conference: Signal Processing, Jul. 2022
         
-      - authors: <B>[11]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>,
+      - authors: <B>[10]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>,
         title: '"Audio-Visual Based Online Multi-Source Separation,"'
         conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Mar. 2022
 
