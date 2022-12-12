@@ -44,10 +44,14 @@ sidebar:
       - topic: <B>DATA MINING</B>
         specific1: Visual Analytics
         specific2: Geo-Social Networks
-        
-      - topic: <B>MACHINE LEARNING</B>
+
+      - topic: <B>SIGNAL PROCESSING</B>
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking 
+
+      - topic: <B>MACHINE LEARNING</B>
+        specific1: Graph Neural Networks
+        specific2: Anomaly Detection
         
     cvlink: scbeom.github.io/main/C.Shim_CV.pdf
     cvname: Curriculum Vitae
@@ -75,7 +79,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: B.E. in Electronics and Information Engineering
+    - degree: B.S. in Electronics and Information Engineering
       university: Korea University, Sejong, South Korea
       time: Mar. 2007 - Feb. 2014
       details: |
@@ -89,8 +93,10 @@ education:
           - Bullet point
 
 experiences:
+    - role: Research Fellow
+      time: Nov. 2022 - Present
     - role: Research Associate
-      time: Nov. 2019 - Present
+      time: Nov. 2019 - Nov. 2022
       company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Perth, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
