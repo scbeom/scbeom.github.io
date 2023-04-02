@@ -169,9 +169,13 @@ publications:
     intro: |
         - Please visit my 
         <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1"><B>Google scholar</B></a> 
-        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a>.
+        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
+      - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
+        title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"'
+        conference: BMC Bioinformatics, Mar. 2023
+    
       - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
         title: '"Generalized Label Grouping for Scalable Trajectory Estimation"'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
@@ -257,5 +261,5 @@ publications:
 
 
 footer: >
-    Last Update: 10 December, 2022
+    Last Update: 31 March, 2023
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
