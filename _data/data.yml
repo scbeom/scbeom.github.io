@@ -172,6 +172,10 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
+      - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
+        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"'
+        conference: IEEE Transactions on Signal Processing, Jun. 2023
+
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
         title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"'
         conference: BMC Bioinformatics, Mar. 2023
