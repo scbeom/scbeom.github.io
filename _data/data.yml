@@ -130,8 +130,8 @@ services:
 #      Describe
     
     papers:
-      - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
-        title: '“Scalable sensor fusion for 3D environmental mapping'
+      - authors: <B>[1]</B> <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim, 2023 - 2025
+        title: '"Scalable sensor fusion for 3D environmental mapping"', A$150K
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
 
         
