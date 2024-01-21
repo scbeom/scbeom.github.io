@@ -198,6 +198,26 @@ p {
         color: $text-grey;
     }
 
+    .service-title {
+        font-size: 16px;
+        font-weight: 400;
+        color: $text-color;
+        margin-bottom: 1px;
+    }
+    .service-authors {
+        font-style: italic;
+        color: $text-grey;
+        margin-bottom: 1px;
+    }
+    .services-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }
+	
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -232,26 +252,6 @@ p {
         }
         .item {
             margin-bottom: 13px;
-        }
-    }
-
-    .service-title {
-        font-size: 16px;
-        font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
-    }
-    .service-authors {
-        font-style: italic;
-        color: $text-grey;
-        margin-bottom: 1px;
-    }
-    .services-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
         }
     }
 }
