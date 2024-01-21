@@ -124,13 +124,19 @@ experiences:
 
 
 publications:
-    title: Grants
+    title: Grants    
     intro: |
-       
+        - Please visit my 
+        <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1"><B>Google scholar</B></a> 
+        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
+      
     papers:
-      - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
-        title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"', A$150K
-        conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
+      - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
+        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"'
+        conference: IEEE Transactions on Signal Processing, May 2023
+      # - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
+      #   title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"', A$150K
+      #   conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
         
         
 projects:
