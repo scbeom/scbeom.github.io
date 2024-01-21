@@ -92,6 +92,7 @@ education:
           - Bullet point
           - Bullet point
 
+
 experiences:
     - role: Research Associate → Research Fellow
       time: Nov. 2019 - Present
@@ -123,21 +124,16 @@ experiences:
         - Research on analysis and application platform technologies for science and technology big data
 
 
-publications:
-    title: Grants    
-    intro: |
-        - Please visit my 
-        <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1"><B>Google scholar</B></a> 
-        or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
-      
+services:
+    title: Grants
+#    intro: |
+#      Describe
+    
     papers:
-      - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
-        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"'
-        conference: IEEE Transactions on Signal Processing, May 2023
-      # - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
-      #   title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"', A$150K
-      #   conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
-        
+      - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
+        title: '“Scalable sensor fusion for 3D environmental mapping'
+        conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
+
         
 projects:
     title: Awards &amp; Honors
@@ -282,5 +278,5 @@ publications:
 
 
 footer: >
-    Last Update: 21 June, 2023
+    Last Update: January, 2024
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
