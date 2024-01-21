@@ -122,8 +122,11 @@ experiences:
       details: |
         - Research on analysis and application platform technologies for science and technology big data
 
+
 publications:
     title: Grants
+    intro: |
+       
     papers:
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
         title: '"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"', A$150K
