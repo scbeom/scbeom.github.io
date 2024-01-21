@@ -199,22 +199,23 @@ p {
     }
 
     .service-title {
-        font-size: 16px;
-        font-weight: 400;
+        font-size: 14px;
+        font-weight: 450;
         color: $text-color;
         margin-bottom: 1px;
     }
     .service-authors {
-        font-style: italic;
+	font-size: 14px;
+//         font-style: italic;
         color: $text-grey;
         margin-bottom: 1px;
     }
     .services-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 13px;
         }
     }
 	
