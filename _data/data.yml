@@ -135,7 +135,10 @@ services:
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
     
       - authors: <B>[2]</B> Host: <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen
-      - authors: <B>   </B> Partner: Yon Dohn Chung, Hyunjin Choi, and Yeonghun Chae
+        title:
+        conference:
+        
+      - authors: Partner: Yon Dohn Chung, Hyunjin Choi, and Yeonghun Chae
         title: '"Enhancing Australia-Korea emergency management capabilities," A$23K 2024 - 2024'
         conference: Australia-Korea Foundation Grant - Australia-Korea Foundation, Department of Foreign Affairs and Trade, Australia
 
