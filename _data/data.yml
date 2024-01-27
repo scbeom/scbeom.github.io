@@ -125,15 +125,19 @@ experiences:
 
 
 services:
-    title: Grants
+    title: Funded Projects
 #    intro: |
 #      Describe
     
     papers:
-      - authors: <B>[1]</B> <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
-        title: '"Scalable sensor fusion for 3D environmental mapping"'
+      - authors: <B>[2]</B> <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
+        title: '"Scalable sensor fusion for 3D environmental mapping," A$150K (2023-2025)'
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
 
+      - authors: <B>[1]</B> <B>Changbeom Shim</B>
+        title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness," A$50K (2020-2021)'
+        conference: Postdoctoral Fellowship (Nurturing Next-generation Researchers) - National Research Foundation of Korea, South Korea
+        
         
 projects:
     title: Awards &amp; Honors
@@ -185,6 +189,14 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
+      - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
+        title: '"The Smooth Trajectory Estimator for LMB Filters"'
+        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
+    
+      - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
+        title: '"Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning"'
+        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
+    
       - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
         title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"'
         conference: IEEE Transactions on Signal Processing, May 2023
