@@ -130,21 +130,21 @@ services:
 #      Describe
     
     papers:
-      - authors: <B>[4]</B> <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
+      - authors: <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
         title: '"Scalable sensor fusion for 3D environmental mapping," A$150K, 2023 - 2025'
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
     
-      - authors: <B>[3]</B> Australia - <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen  <br>   
-                &nbsp;&nbsp;&nbsp;&nbsp;  South Korea - Yon Dohn Chung (Korea University), Hyunjin Choi (AIBIZ), and Yeonghun Chae (SEASON)
+      - authors: Australia - <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen  <br>   
+                 South Korea - Yon Dohn Chung (Korea University), Hyunjin Choi (AIBIZ), and Yeonghun Chae (SEASON)
         title: '"Enhancing Australia-Korea emergency management capabilities," A$23K, 2024 - 2025'
         conference: Australia-Korea Foundation Grant - Australia-Korea Foundation, Department of Foreign Affairs and Trade, Australia
 
-      - authors: <B>[2]</B> <B>Changbeom Shim</B>
+      - authors: <B>Changbeom Shim</B>
         title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness," A$50K, 2020 - 2021'
         conference: Postdoctoral Fellowship (Nurturing Next-generation Researchers) - National Research Foundation of Korea, South Korea
 
-      - authors: <B>[1]</B> South Korea - Yon Dohn Chung (Korea University)   <br>  
-                &nbsp;&emsp;  Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
+      - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
+                 Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
         title: '"A data-driven system for privacy-preserving pandemic prevention," A$60K, 2020 - 2021'
         conference: International Joint Research - National Research Foundation of Korea, South Korea
         
