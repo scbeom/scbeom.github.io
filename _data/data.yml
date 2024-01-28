@@ -94,8 +94,11 @@ education:
 
 
 experiences:
-    - role: Research Associate → Research Fellow
-      time: Nov. 2019 - Present
+    - role: Research Fellow
+      time: Nov. 2022 - Present
+
+    - role: Research Associate
+      time: Nov. 2019 - Nov. 2022
       company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Perth, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
