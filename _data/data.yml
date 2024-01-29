@@ -99,6 +99,7 @@ experiences:
       company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Perth, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
+        - Supervisors: Prof. Ba-Ngu Vo and Prof. Ba Tuong Vo 
 #       - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
 #       - A data-driven system for privacy-preserving pandemic prevention
 #       - Efficient large-scale multi-object tracking
@@ -107,14 +108,16 @@ experiences:
       time: Mar. 2014 - Aug. 2019
       company: Department of Computer Science and Engineering, Korea University, Seoul, South Korea
       details: |
+        - Supervisor: Prof. Yon Dohn Chung
 #       - A research on safe and convenient big data processing methods
 #       - A research on privacy issues and privacy protection methods for social network services
 #       - An intelligent system for crime detection/prevention and public security based on CCTV bigdata
 
-    - role: Visiting Student of Dr. Du Yong Kim
+    - role: Visiting Student
       time: Jan. 2019 - Feb. 2019
       company: School of Engineering, RMIT University, Melbourne, Australia
       details: |
+        - Supervisor: Dr. Du Yong Kim 
 #       - A research on random finite set approach to database applications
         
     - role: Student Researcher
