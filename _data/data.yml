@@ -215,7 +215,7 @@ publications:
         conference: IEEE Transactions on Signal Processing, May 2023
 
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
-        title: '<a href=https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y>"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"'
+        title: '<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y">"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"'
         conference: BMC Bioinformatics, Mar. 2023
   
       - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
