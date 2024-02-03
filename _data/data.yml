@@ -219,35 +219,35 @@ publications:
         conference: BMC Bioinformatics, Mar. 2023
   
       - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Generalized Label Grouping for Scalable Trajectory Estimation"</a>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9990167">"Generalized Label Grouping for Scalable Trajectory Estimation"</a>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
     
       - authors: <B>[13]</B> Diluka Moratuwage, <B>Changbeom Shim</B>, and Yuthika Punchihewa
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"A Moving Window Based Approach to Multi-Scan Multi-Target Tracking," <B>Best Paper</B> [<a href="https://arxiv.org/abs/2210.04008" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9990443">"A Moving Window Based Approach to Multi-Scan Multi-Target Tracking," <B>Best Paper</B> [<a href="https://arxiv.org/abs/2210.04008" style="color: #B31B1B">Preprint</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
     
       - authors: <B>[12]</B> Diluka Moratuwage, Ba-Ngu Vo, Ba Tuong Vo, and <B>Changbeom Shim</B>
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Multi-Sensor Multi-Scan Multi-Object State Estimation" [<a href="https://arxiv.org/abs/2205.15516" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9933644">"Multi-Sensor Multi-Scan Multi-Object State Estimation" [<a href="https://arxiv.org/abs/2205.15516" style="color: #B31B1B">Preprint</a>]'
         conference: IEEE Transactions on Signal Processing, Oct. 2022
     
       - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0165168422000792">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a>'
         conference: Signal Processing, Jul. 2022
         
       - authors: <B>[10]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Audio-Visual Based Online Multi-Source Separation"</a>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9733974">"Audio-Visual Based Online Multi-Source Separation"</a>'
         conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Mar. 2022
 
       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <B>Best Paper (First Runner-up)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9624509">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <B>Best Paper (First Runner-up)</B>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a>'
+        title: '<a href="https://link.springer.com/article/10.1007/s12650-021-00758-y">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a>'
         conference: Journal of Visualization, May 2021
 
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Biological Cell Tracking and Lineage Inference Via Random Finite Sets"</a>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9433957">"Biological Cell Tracking and Lineage Inference Via Random Finite Sets"</a>'
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr. 2021
     
       - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung
