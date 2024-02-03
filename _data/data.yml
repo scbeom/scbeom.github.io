@@ -134,12 +134,12 @@ services:
     
     papers:
       - authors: <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
-        title: '"Scalable sensor fusion for 3D environmental mapping," A$150K, 2023 - 2025'
+        title: '"Scalable sensor fusion for 3D environmental mapping," A$150K, 2023 - 2025' [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>]
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
     
       - authors: Australia - <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen  <br>   
                  South Korea - Yon Dohn Chung (Korea University), Hyunjin Choi (AIBIZ), and Yeonghun Chae (SEASON)
-        title: '"Enhancing Australia-Korea emergency management capabilities," A$23K, 2024 - 2025'
+        title: '"Enhancing Australia-Korea emergency management capabilities," A$23K, 2024 - 2025' [<a href="https://www.dfat.gov.au/people-people/foundations-councils-institutes/australia-korea-foundation/grant-recipients/australia-korea-foundation-2023-2024-grant-recipients" style="color: #FF8100">Announcement</a>]
         conference: Australia-Korea Foundation Grant - Australia-Korea Foundation, Department of Foreign Affairs and Trade, Australia
 
       - authors: <B>Changbeom Shim</B>
@@ -212,7 +212,7 @@ publications:
     
       - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
         title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"</a> [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B">Preprint</a>]'
-        conference: IEEE Transactions on Signal Processing, May 2023
+        conference: IEEE Transactions on Signal Processing, May 2023 (also presented in ICASSP 2024)
 
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
         title: '<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y">"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"</a> [<a href="https://scbeom.github.io/ctv_tutorial/index.html" style="color: #6A00FF">Project</a>]'
@@ -263,7 +263,7 @@ publications:
         conference: Information Sciences, Jan. 2018
       
       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <B>Honorable Mention (Challenge)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <a href="https://ieeevis.org/year/2017/info/overview-amp-topics/vast-challenge-program"><B>Honorable Mention (Challenge)</a></B>'
         conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
