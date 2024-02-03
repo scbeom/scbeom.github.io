@@ -203,7 +203,7 @@ publications:
       
     papers:
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682"</a> style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
@@ -251,27 +251,27 @@ publications:
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr. 2021
     
       - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Cohesive Ridesharing Group Queries in Geo-Social Networks"</a>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9099257">"Cohesive Ridesharing Group Queries in Geo-Social Networks"</a>'
         conference: IEEE Access, May 2020
     
       - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Moving view field nearest neighbor queries"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0169023X17305517">"Moving view field nearest neighbor queries"</a>'
         conference: Data & Knowledge Engineering, Jan. 2019
     
       - authors: <B>[4]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Nearest close friend search in geo-social networks"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0020025517309684">"Nearest close friend search in geo-social networks"</a>'
         conference: Information Sciences, Jan. 2018
       
       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <B>Honorable Mention (Challenge)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <B>Honorable Mention (Challenge)</B>'
         conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Reverse View Field Nearest Neighbor Queries"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S002002551730628X">"Reverse View Field Nearest Neighbor Queries"</a>'
         conference: Information Sciences, Sep. 2017
         
       - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"&#8467-Close Range Friends Query on Social Grid Index"</a>'
+        title: '<a href="https://www.jstage.jst.go.jp/article/transinf/E100.D/4/E100.D_2016DAL0003/_article/-char/en">"&#8467-Close Range Friends Query on Social Grid Index"</a>'
         conference: IEICE Transaction on Information and Systems, Apr. 2017
 
 # projects:
