@@ -203,7 +203,7 @@ publications:
       
     papers:
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/nguyenvanhoa89/smooth-trajectory-estimator-lmb" style="color: #6A00FF">Project</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
@@ -215,7 +215,7 @@ publications:
         conference: IEEE Transactions on Signal Processing, May 2023
 
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
-        title: '<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y">"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"</a> [<a href="https://scbeom.github.io/ctv_tutorial/index.html" style="color: #05367B">Project</a>]'
+        title: '<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y">"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"</a> [<a href="https://scbeom.github.io/ctv_tutorial/index.html" style="color: #6A00FF">Project</a>]'
         conference: BMC Bioinformatics, Mar. 2023
   
       - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
@@ -231,7 +231,7 @@ publications:
         conference: IEEE Transactions on Signal Processing, Oct. 2022
     
       - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0165168422000792">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0165168422000792">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a> [<a href="https://github.com/TranThienDat-Nguyen/Adaptive-GLMB" style="color: #6A00FF">Project</a>]'
         conference: Signal Processing, Jul. 2022
         
       - authors: <B>[10]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>
@@ -243,7 +243,7 @@ publications:
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://link.springer.com/article/10.1007/s12650-021-00758-y">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a>'
+        title: '<a href="https://link.springer.com/article/10.1007/s12650-021-00758-y">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a> [<a href="https://github.com/wooilkim/SkyFlow" style="color: #6A00FF">Project</a>]'
         conference: Journal of Visualization, May 2021
 
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim
