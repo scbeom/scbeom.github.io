@@ -203,7 +203,7 @@ publications:
       
     papers:
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
-        title: '"The Smooth Trajectory Estimator for LMB Filters"'
+        title: '"The Smooth Trajectory Estimator for LMB Filters" <a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B"><B>[Preprint]</B></a>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
@@ -211,7 +211,7 @@ publications:
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
-        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"' [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B"><B>Preprint</B></a>]
+        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering" [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B"><B>Preprint</B></a>]'
         conference: IEEE Transactions on Signal Processing, May 2023
 
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
