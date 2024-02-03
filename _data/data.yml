@@ -203,15 +203,15 @@ publications:
       
     papers:
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
-        title: '"The Smooth Trajectory Estimator for LMB Filters" [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682"</a> style="color: #B31B1B">Preprint</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
-        title: '"Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning" [<a href="https://arxiv.org/abs/2310.14506" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382268">"Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning"</a> [<a href="https://arxiv.org/abs/2310.14506" style="color: #B31B1B">Preprint</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
-        title: '"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering" [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"</a> [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B">Preprint</a>]'
         conference: IEEE Transactions on Signal Processing, May 2023
 
       - authors: <B>[15]</B> <B>Changbeom Shim</B>, Wooil Kim, Tran Thien Dat Nguyen, Du Yong Kim, Yu Suk Choi, and Yon Dohn Chung
@@ -219,59 +219,59 @@ publications:
         conference: BMC Bioinformatics, Mar. 2023
   
       - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
-        title: '"Generalized Label Grouping for Scalable Trajectory Estimation"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Generalized Label Grouping for Scalable Trajectory Estimation"</a>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
     
       - authors: <B>[13]</B> Diluka Moratuwage, <B>Changbeom Shim</B>, and Yuthika Punchihewa
-        title: '"A Moving Window Based Approach to Multi-Scan Multi-Target Tracking," <B>Best Paper</B> [<a href="https://arxiv.org/abs/2210.04008" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"A Moving Window Based Approach to Multi-Scan Multi-Target Tracking," <B>Best Paper</B> [<a href="https://arxiv.org/abs/2210.04008" style="color: #B31B1B">Preprint</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
     
       - authors: <B>[12]</B> Diluka Moratuwage, Ba-Ngu Vo, Ba Tuong Vo, and <B>Changbeom Shim</B>
-        title: '"Multi-Sensor Multi-Scan Multi-Object State Estimation" [<a href="https://arxiv.org/abs/2205.15516" style="color: #B31B1B">Preprint</a>]'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Multi-Sensor Multi-Scan Multi-Object State Estimation" [<a href="https://arxiv.org/abs/2205.15516" style="color: #B31B1B">Preprint</a>]'
         conference: IEEE Transactions on Signal Processing, Oct. 2022
     
       - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a>'
         conference: Signal Processing, Jul. 2022
         
       - authors: <B>[10]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>
-        title: '"Audio-Visual Based Online Multi-Source Separation"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Audio-Visual Based Online Multi-Source Separation"</a>'
         conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Mar. 2022
 
       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim
-        title: '"Space-oriented Label Partitioning for Multi-object Tracking," <B>Best Paper (First Runner-up)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <B>Best Paper (First Runner-up)</B>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '"SkyFlow: A visual analysis of high-dimensional skylines in time-series"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a>'
         conference: Journal of Visualization, May 2021
 
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim
-        title: '"Biological Cell Tracking and Lineage Inference Via Random Finite Sets"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Biological Cell Tracking and Lineage Inference Via Random Finite Sets"</a>'
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr. 2021
     
       - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung
-        title: '"Cohesive Ridesharing Group Queries in Geo-Social Networks"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Cohesive Ridesharing Group Queries in Geo-Social Networks"</a>'
         conference: IEEE Access, May 2020
     
       - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '"Moving view field nearest neighbor queries"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Moving view field nearest neighbor queries"</a>'
         conference: Data & Knowledge Engineering, Jan. 2019
     
       - authors: <B>[4]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '"Nearest close friend search in geo-social networks"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Nearest close friend search in geo-social networks"</a>'
         conference: Information Sciences, Jan. 2018
       
       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung
-        title: '"A Visual Explorer for Analyzing Trajectory Patterns," <B>Honorable Mention (Challenge)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <B>Honorable Mention (Challenge)</B>'
         conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '"Reverse View Field Nearest Neighbor Queries"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Reverse View Field Nearest Neighbor Queries"</a>'
         conference: Information Sciences, Sep. 2017
         
       - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '"&#8467-Close Range Friends Query on Social Grid Index"'
+        title: '<a href="https://ieeexplore.ieee.org/document/10128749">"&#8467-Close Range Friends Query on Social Grid Index"</a>'
         conference: IEICE Transaction on Information and Systems, Apr. 2017
 
 # projects:
