@@ -159,7 +159,9 @@ projects:
     assignments:
       - title:
         link: 
-        tagline: "[Nov. 2022] <a href="https://scbeom.github.io/main/ICCAIS22 Award.pdf">"Best Paper Award,  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"</a>"
+        tagline: "[Nov. 2022] Best Paper Award,  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"
+        # tagline: "[Nov. 2022] <a href="https://scbeom.github.io/main/ICCAIS22 Award.pdf">"Best Paper Award,  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"</a>"
+
         
       - title:
         link: 
