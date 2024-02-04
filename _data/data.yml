@@ -159,12 +159,12 @@ projects:
     assignments:
       - title:
         link: 
-        tagline: "[Nov. 2022] Best Paper Award,  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"
-    
+        tagline: "[Nov. 2022] <a href="https://scbeom.github.io/main/ICCAIS22 Award.pdf">"Best Paper Award,  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"</a>"
+        
       - title:
         link: 
         tagline: "[Oct. 2021] Best Paper Award (First Runner-Up),  Int. Conf. on Cont., Auto. and Info. Sci. (ICCAIS)"
-        
+    
       - title:
         link: 
         tagline: "[Sep. 2020] Postdoctoral Fellowship Program, National Research Foundation (NRF) of Korea"
@@ -239,7 +239,7 @@ publications:
         conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Mar. 2022
 
       - authors: <B>[9]</B> <B>Changbeom Shim</B>, and Du Yong Kim
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9624509">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <B>Best Paper (First Runner-up)</B>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9624509">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <a href="https://scbeom.github.io/main/ICCAIS22 Award.pdf"><B>Best Paper (First Runner-up)</B></a>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
       - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
@@ -263,7 +263,7 @@ publications:
         conference: Information Sciences, Jan. 2018
       
       - authors: <B>[3]</B> Wooil Kim, <B>Changbeom Shim</B>, Ilhyun Suh, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <a href="https://ieeevis.org/year/2017/info/overview-amp-topics/vast-challenge-program"><B>Honorable Mention (Challenge)</a></B>'
+        title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <a href="https://ieeevis.org/year/2017/info/overview-amp-topics/vast-challenge-program"><B>Honorable Mention (Challenge)</B></a>'
         conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
       - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
