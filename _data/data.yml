@@ -134,7 +134,7 @@ services:
     
     papers:
       - authors: <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
-        title: '"Scalable sensor fusion for 3D environmental mapping" A$150K, 2023 - 2025 [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>][<a href="https://www.wa.gov.au/government/announcements/collaborative-research-grant-recipient-dr-changbeom-shim" style="color: #000000">Media</a>]'
+        title: '"Scalable sensor fusion for 3D environmental mapping" A$150K, 2023 - 2025 [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>][<a href="https://www.wa.gov.au/government/announcements/collaborative-research-grant-recipient-dr-changbeom-shim" style="color: #0000FF">Media</a>]'
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
     
       - authors: Australia - <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen  <br>   
