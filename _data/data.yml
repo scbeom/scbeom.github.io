@@ -204,6 +204,10 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
+      - authors: <B>[19]</B> Linh Van Ma, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, Du Yong Kim, Namkoo~Ha, and Moongu Jeon
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0031320324005363">"Visual multi-object tracking with re-identification and occlusion handling using labeled random finite sets"</a> [<a href="https://arxiv.org/abs/2407.08872" style="color: #B31B1B">Preprint</a>]'
+        conference: Pattern Recognition, Dec. 2024
+    
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/nguyenvanhoa89/smooth-trajectory-estimator-lmb" style="color: #6A00FF">Project</a>]'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
