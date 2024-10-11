@@ -133,22 +133,27 @@ services:
 #      Describe
     
     papers:
+      - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
+                 Australia - <B>Changbeom Shim</B>     
+        title: '"Privacy-preserving processing and sharing of spatio-temporal data" 20,000K KRW, 2024 - 2025'
+        conference: International Mobility Project - National Research Foundation of Korea, South Korea
+    
       - authors: <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
-        title: '"Scalable sensor fusion for 3D environmental mapping" A$150K, 2023 - 2025 [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>][<a href="https://www.wa.gov.au/government/announcements/collaborative-research-grant-recipient-dr-changbeom-shim" style="color: #0000FF">Media</a>]'
+        title: '"Scalable sensor fusion for 3D environmental mapping" 150K AUD, 2023 - 2025 [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>][<a href="https://www.wa.gov.au/government/announcements/collaborative-research-grant-recipient-dr-changbeom-shim" style="color: #0000FF">Media</a>]'
         conference: Collaborative Research Grant - Defence Science Centre, Department of Jobs Tourism Science and Innovation, Australia
     
       - authors: Australia - <B>Changbeom Shim</B>, Ba-Ngu Vo, Ba Tuong Vo, Hoa Van Nguyen, and Tran Thien Dat Nguyen  <br>   
                  South Korea - Yon Dohn Chung (Korea University), Hyunjin Choi (AIBIZ), and Yeonghun Chae (SEASON)
-        title: '"Enhancing Australia-Korea emergency management capabilities" A$23K, 2024 - 2025 [<a href="https://www.dfat.gov.au/people-people/foundations-councils-institutes/australia-korea-foundation/grant-recipients/australia-korea-foundation-2023-2024-grant-recipients" style="color: #FF8100">Announcement</a>]'
+        title: '"Enhancing Australia-Korea emergency management capabilities" 23K AUD, 2024 - 2025 [<a href="https://www.dfat.gov.au/people-people/foundations-councils-institutes/australia-korea-foundation/grant-recipients/australia-korea-foundation-2023-2024-grant-recipients" style="color: #FF8100">Announcement</a>]'
         conference: Australia-Korea Foundation Grant - Australia-Korea Foundation, Department of Foreign Affairs and Trade, Australia
 
       - authors: <B>Changbeom Shim</B>
-        title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness" A$50K, 2020 - 2021'
+        title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness" 40,000K KRW, 2020 - 2021'
         conference: Postdoctoral Fellowship (Nurturing Next-generation Researchers) - National Research Foundation of Korea, South Korea
 
       - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
                  Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
-        title: '"A data-driven system for privacy-preserving pandemic prevention" A$60K, 2020 - 2021'
+        title: '"A data-driven system for privacy-preserving pandemic prevention" 50,000K KRW, 2020 - 2021'
         conference: International Joint Research - National Research Foundation of Korea, South Korea
         
         
@@ -204,9 +209,13 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
-      - authors: <B>[19]</B> Linh Van Ma, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, Du Yong Kim, Namkoo Ha, and Moongu Jeon
+      - authors: <B>[20]</B> Linh Van Ma, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, Du Yong Kim, Namkoo Ha, and Moongu Jeon
         title: '<a href="https://www.sciencedirect.com/science/article/pii/S0031320324005363">"Visual multi-object tracking with re-identification and occlusion handling using labeled random finite sets"</a> [<a href="https://arxiv.org/abs/2407.08872" style="color: #B31B1B">Preprint</a>]'
         conference: Pattern Recognition, Dec. 2024
+
+      - authors: <B>[20]</B> Ba-Ngu Vo, Ba-Tuong Vo, Tran Thien Dat Nguyen, and <B>Changbeom Shim</B>
+        title: '<a href="https://ieeexplore.ieee.org/document/10704579">"An Overview of Multi-Object Estimation via Labeled Random Finite Set"</a> [<a href="https://arxiv.org/abs/2409.18531" style="color: #B31B1B">Preprint</a>]'
+        conference: IEEE Transactions on Signal Processing, Oct. 2024
     
       - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/nguyenvanhoa89/smooth-trajectory-estimator-lmb" style="color: #6A00FF">Project</a>]'
